@@ -1,6 +1,6 @@
 # ubiquitous-fiesta Calculator - Version 1.7.10
   - By Anwen Brookes-Tee
-~~~~~
+  
 Features
 ~~~~~
   - Basic Calculation
@@ -29,7 +29,8 @@ Features
   - Error Handling and Comments
 ~~~~~
 New Features
-~~~~~
+
 Bug Fixes
+~~~~~
   - Fixed 'That is not a valid input' displaying, by changing two 'ifs' to 'elifs'.
 ~~~~~
