@@ -29,7 +29,8 @@ Features
   - Error Handling and Comments
 ~~~~~
 New Features
-
+~~~~~
+~~~~~
 Bug Fixes
 ~~~~~
   - Fixed 'That is not a valid input' displaying, by changing two 'ifs' to 'elifs'.
